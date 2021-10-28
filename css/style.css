@@ -1,0 +1,58 @@
+#header {
+    background-color: red;
+    margin-bottom: -16px;
+  }
+  
+  #header ul {
+    list-style: none;
+    padding-left: 0;
+    width: 98%;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  #header a {
+    text-decoration: none; 
+    padding: 10px;
+    font-weight: bold;
+    color: black;
+  }
+  
+  #header h2 {
+    width: 103%;
+    text-align: center;
+  }
+  
+  #menu li {
+      border: 1px solid black;
+  }
+  
+  #sect{
+      display: flex;
+      flex-direction: space-between;
+  }
+  
+  #asi{
+      padding-left: 200px;
+      background-color: yellow;
+  }
+  
+  #art{
+      display: flex;
+      flex-direction: center;
+      background-color: blue;
+      padding: 23px;
+  }
+  
+  #asi2{
+      background-color: pink;
+      padding-right: 200px;
+  }
+  
+  footer{
+      background-color: green;
+      text-align: center
+  }
